@@ -1,5 +1,7 @@
 # Chimera_agent
 # Project Chimera: Advanced Autonomous AI Agent Framework
+![image](https://github.com/user-attachments/assets/feb8f158-56e1-435e-85e7-a716dc28d927)
+
 
 Project Chimera is an open-source framework for building sophisticated autonomous AI agents capable of complex reasoning, planning, and interaction within dynamic environments.
 
